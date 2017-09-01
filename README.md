@@ -1,1 +1,4 @@
 # samsung
+lg
+nokia
+yamaha
